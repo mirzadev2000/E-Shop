@@ -22,7 +22,7 @@ Slijedite ove korake da biste pokrenuli aplikaciju:
 3.  Pokrenuti projekat preko terminala u VS Code-u (npm start)
 
 ### Status Projekta
-Projekat je 35% završen.Planirano je dodavanje Baze podataka kupaca i dizajniranje web aplikacije
+Projekat je 50% završen.Planirano je dodavanje Baze podataka kupaca i dizajniranje web aplikacije
 
 ---
 **Kontakt:** e-mail: huseinbasicm09@gmail.com | LinkedIn:  https://www.linkedin.com/in/mirza-huseinbasic-905ab9240/
