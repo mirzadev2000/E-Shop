@@ -19,7 +19,7 @@ Ovaj projekat je kreiran za narudžbe i kupovinu preko aplikacije.Svrha ovog pro
 Slijedite ove korake da biste pokrenuli aplikaciju:
 1.  Klonirajte repozitorij: `git clone https://github.com/mirzadev2000/E-Shop`
 2.  Otvoriti projekat u IDE-u (VS Code).
-3.  Pokrenuti projekat preko terminala u VS Code-u (npm start
+3.  Pokrenuti projekat preko terminala u VS Code-u (npm start)
 
 ### Status Projekta
 Projekat je 30% završen.Planirano je dodavanje Baze podataka kupaca i dizajniranje web aplikacije
