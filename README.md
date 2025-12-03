@@ -1,4 +1,4 @@
-# E-Commerce app
+# E-Shop app
 
 ### Opis
 Ovaj projekat je kreiran za narudžbe i kupovinu preko aplikacije.Svrha ovog projekta je kupovina preko interneta
