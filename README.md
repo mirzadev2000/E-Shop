@@ -10,7 +10,7 @@ Ovaj projekat je kreiran za narudžbe i kupovinu preko aplikacije.Svrha ovog pro
 * **Alati:** Git (za testiranje API-ja)
 
 ### Funkcionalnosti
-* Prijava potrošača na svoj račun
+* Prijava potrošača na svoj račun (Kreiranje Računa)
 * Mogućnost pretraživanja odjeće
 * Tabovi Muški,Ženski,Dječija odjeća i obuća
 
