@@ -1,7 +1,7 @@
 # E-Shop app
 
 ### Opis
-Ovaj projekat je kreiran za narudžbe i kupovinu preko aplikacije.Svrha ovog projekta je kupovina preko interneta
+Ovaj projekat je kreiran za narudžbe i kupovinu preko aplikacije.Svrha ovog projekta je kupovina preko interneta,Kao i razumijevanje front-end logike
 
 
 ### Korištene Tehnologije (Tech Stack)
